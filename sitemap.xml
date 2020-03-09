@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/tags/conv-19/</loc>
+    <lastmod>2020-03-07T15:10:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/conv19/</loc>
+    <lastmod>2020-03-07T15:10:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/coronavirus/</loc>
+    <lastmod>2020-03-07T15:10:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-03-07T15:10:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/news/</loc>
+    <lastmod>2020-03-07T15:10:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-03-07T15:10:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post4/</loc>
+    <lastmod>2020-03-07T15:10:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post3/</loc>
+    <lastmod>2020-03-07T09:57:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/four/</loc>
+    <lastmod>2020-03-06T15:10:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/three/</loc>
+    <lastmod>2020-03-06T15:10:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/two/</loc>
+    <lastmod>2020-03-06T15:10:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post2/</loc>
+    <lastmod>2020-03-06T15:10:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/entertainment/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/india/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/lifestyle/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/politics/</loc>
+  </url>
+  
+</urlset>
