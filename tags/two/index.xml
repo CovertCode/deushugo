@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>two on My New Hugo Site</title>
+    <link>http://example.org/tags/two/</link>
+    <description>Recent content in two on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2020 15:10:57 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/two/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Your Coronavirus FAQs, Answered: Wearing Masks, Canceling Air Travel, and More</title>
+      <link>http://example.org/post2/</link>
+      <pubDate>Fri, 06 Mar 2020 15:10:57 +0530</pubDate>
+      
+      <guid>http://example.org/post2/</guid>
+      <description>The ongoing outbreak of a newly discovered, sometimes fatal coronavirus has many people wondering how much they should be altering their daily lives to avoid infection. As the disease known as COVID-19 has begun spreading locally in parts of the U.S., we’ve compiled answers to commonly asked questions submitted by our readers, friends, and coworkers.
+Q: How long can the virus survive on surfaces? Do disinfectant sprays and wipes work against it?</description>
+    </item>
+    
+  </channel>
+</rss>
